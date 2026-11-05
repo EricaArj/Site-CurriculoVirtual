@@ -1,4 +1,4 @@
-# Projeto04
+# Projeto Site CurriculoVirtual
 Site CurriculoVirtual
 
 Somos um grupo de profissionais estusiasta e estudantes em tecnologia, se especializando em arquitetura de Nuvem AWS. Nosso objetivo é o crescimento como profissionais tecnologia e nos colocarmos no mercado com maior visibilidade. Aqui neste site você poderá encontrar um pouco mais de quem somos, nossas Soft Skill e Hard Skill. Convidamos a visitar e analisar nossos currículos para fecharmos parcerias para o crescimento do seu negócio e nosso crescimento profissional.
